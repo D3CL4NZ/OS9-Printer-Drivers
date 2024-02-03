@@ -1,2 +1,2 @@
-# OS9-Printer-Drivers
+# OS9 Printer Definitions
 Custom ported printer definitions for Classic MacOS.
